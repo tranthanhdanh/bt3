@@ -6,7 +6,7 @@ public class hello
 	{                
 		System.out.print("I love duu! \n");
 		System.out.print("1 \n");
-		
+		System.out.print("2 \n");
 	}
 	
 } 
